@@ -1,8 +1,7 @@
-baloot_score_app
-<<<<<<< HEAD
-=======
+# arb3ah
 
-تطبيق نشرة بلوت مع تصميم FlutterFlow
->>>>>>> c44a6240e08fac9973ea3ddca11db1d61c693b2a
+A new Flutter project.
 
-تطبيق نشرة بلوت مع تصميم FlutterFlow
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
